@@ -1,2 +1,2 @@
-# cs61b
-Relearning of cs61B
+# Relearning of CS61B
+## Thinking about more details.
